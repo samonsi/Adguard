@@ -109,5 +109,30 @@ cinemas1.com##.tt_banner_head
 cinemas1.com##.tt_banner_728
 cinemas1.com##div.tt_banner_full:nth-of-type(3)
 
+! 2023-03-10 https://series2day.com
+series2day.com##[href="https://london1681.com/"]
+series2day.com##.entry-content > div.list-ads
+
+! 2023-03-10 https://037anime.com
+037anime.com##div.container:nth-of-type(2)
+037anime.com##.b-s-1.b-r-5.comments
+
+! 2023-03-10 https://goseries4k.com
+goseries4k.com##[href="https://kingdom662.com"]
+goseries4k.com##[href="https://lotto432s.co"]
+goseries4k.com##[href="https://hydra8882.com"]
+goseries4k.com##[href="https://panama888.cc"]
+goseries4k.com##[href="https://newyork888s.co/"]
+goseries4k.com##[href="https://london1681.com/"]
+goseries4k.com##[href="https://brazil999.co"]
+goseries4k.com##[href="https://ufa1913.com"]
+goseries4k.com##[href="https://mahagame882.com"]
+goseries4k.com##[href="https://lockdown1681.com"]
+goseries4k.com##[href="https://series2day.com/cat_category/ซีรี่ย์เกาหลี-พากย์ไทย-2/"]
+goseries4k.com##[href="https://bl88gold.com/"]
+goseries4k.com##[href="https://ufazeed1.com"]
+goseries4k.com##[href="https://cinemas1.com/%E0%B8%94%E0%B8%B9%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/"]
+goseries4k.com##[href="https://hotgraph883.com"]
+
 
 
