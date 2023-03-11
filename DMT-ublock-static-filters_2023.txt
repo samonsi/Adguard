@@ -11,3 +11,12 @@ dunnung.com###banner-left
 dunnung.com###ads_fix_footer
 dunnung.com##.banner-upder
 dunnung.com##.active.wrap
+
+! 2023-03-10 https://movie8m.co
+movie8m.co##.main-banner
+movie8m.co##.banner-f-left-1.banner
+movie8m.co##.banner-f-right-1.banner
+movie8m.co##.banner-float.banner
+movie8m.co##div.my-3.banner-content-center.banner:nth-of-type(10)
+movie8m.co##.banner-player.banner
+movie8m.co##div.my-3.banner-content-center.banner:nth-of-type(5)
