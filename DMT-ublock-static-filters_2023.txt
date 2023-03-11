@@ -20,3 +20,37 @@ movie8m.co##.banner-float.banner
 movie8m.co##div.my-3.banner-content-center.banner:nth-of-type(10)
 movie8m.co##.banner-player.banner
 movie8m.co##div.my-3.banner-content-center.banner:nth-of-type(5)
+
+! 2023-03-10 https://www.9nunghd.com
+www.9nunghd.com##.banner-top
+
+! 2023-03-10 https://www.dooseries4k.com
+www.dooseries4k.com##.banner_large
+www.dooseries4k.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.dooseries4k.com##.ad-float-left2
+www.dooseries4k.com##.ad-float-right2 > .widget_media_image.widget
+www.dooseries4k.com##.ad-float
+
+! 2023-03-10 https://www.nung2hdd.com
+www.nung2hdd.com##.rIdV-top
+www.nung2hdd.com###footer
+www.nung2hdd.com##.rIdV-top-end
+www.nung2hdd.com##.rIdV-mid-end
+www.nung2hdd.com##.rIdV-mid
+www.nung2hdd.com##.rIdV-inpost
+www.nung2hdd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.nung2hdd.com##.social-telegram
+www.nung2hdd.com##div.sidebarborder:nth-of-type(2)
+
+! 2023-03-10 https://www.i-moviehd.com
+www.i-moviehd.com###banner-left1
+www.i-moviehd.com###banner-left2
+www.i-moviehd.com###banner_top
+www.i-moviehd.com###ads_fix_footer
+www.i-moviehd.com###banner_mid
+www.i-moviehd.com###banner_low
+www.i-moviehd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments.comment-form.fb-social-plugin
+www.i-moviehd.com###site-generator
+www.i-moviehd.com##.alignnone.wp-caption
+www.i-moviehd.com##.custom-html-widget.textwidget
+
