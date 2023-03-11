@@ -83,4 +83,31 @@ www.369movies.com##.contentmovie > [href="https://viewbet369s.com/"]
 www.369movies.com##.col-in2 > [href="https://viewbet369s.com/"]
 www.369movies.com##[href="https://poipet.com/inv/a/20m0yi4DjCG3"]
 
+! 2023-03-10 https://movie-online.org
+movie-online.org###footer
+movie-online.org###ads_fix_footer > div
+
+! 2023-03-10 https://fm2play.com
+fm2play.com##[href="https://ufabetmobile.com/"]
+fm2play.com##footer.main
+fm2play.com##div.sbox:nth-of-type(7)
+
+! 2023-03-10 https://free-moviehd.com
+free-moviehd.com##.tt_bfxl
+free-moviehd.com##.tt_bfxr
+free-moviehd.com##.tt_bfxb > .tt_fxli
+free-moviehd.com##.tt_logo_footer
+free-moviehd.com##.tt_copy_footer
+free-moviehd.com##.tt_banner_head
+free-moviehd.com##.tt_banner_728
+free-moviehd.com##[href="https://series2day.com/cat_category/ซีรี่ย์เกาหลี-พากย์ไทย-2/"]
+
+! 2023-03-10 https://cinemas1.com
+cinemas1.com##.tt_bfxl > .tt_fxli
+cinemas1.com##.tt_bfxr > .tt_fxli
+cinemas1.com##.tt_banner_head
+cinemas1.com##.tt_banner_728
+cinemas1.com##div.tt_banner_full:nth-of-type(3)
+
+
 
