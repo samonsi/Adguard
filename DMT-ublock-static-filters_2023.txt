@@ -1,3 +1,37 @@
+! 2023-03-10 https://ufac41.com
+ufac41.com###topbar2
+ufac41.com###topbar
+ufac41.com##.swal-overlay--show-modal.swal-overlay
+ufac41.com##.active.owl-item
+ufac41.com##.slide_pc.tt_full.tt_l > .owl-drag.owl-loaded.owl-theme.owl-carousel > .owl-stage-outer > .owl-stage
+ufac41.com##p:nth-of-type(1)
+ufac41.com##.fix_footer
+ufac41.com##.footer_cx.tt_full.tt_l
+ufac41.com##.footer.tt_full.tt_l
+ufac41.com##p:nth-of-type(2)
+ufac41.com###menu-item-23 > [href="https://ufac41.com/%e0%b8%84%e0%b8%b2%e0%b8%aa%e0%b8%b4%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"]
+ufac41.com###menu-item-355 > [href="https://ufac41.com/%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%94%e0%b9%89/"]
+ufac41.com###menu-item-35 > [href="https://ufac41.com/contact-us/"]
+ufac41.com###menu-item-36 > [href="https://ufac41.com/promotion/"]
+ufac41.com###menu-item-38 > [href="https://ufac41.com/register/"]
+ufac41.com##.bg_2x.tt_full.tt_l > .wrapper-c
+ufac41.com##.bg_2.tt_full.tt_l > .wrapper-c
+ufac41.com##.bg_4.tt_full.tt_l
+||ufac41.com/wp-content/themes/UFAC4.COM/images/bg2.jpg?v=1.2$image
+||ufac41.com/wp-content/themes/UFAC4.COM/images/bg2.jpg?v=1.2$image
+ufac41.com##.bg_3.tt_full.tt_l
+ufac41.com###menu-item-37 > [href="https://ufac41.com/%e0%b9%81%e0%b8%97%e0%b8%87%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"]
+||ufac41.com/wp-content/themes/UFAC4.COM/images/bg2.jpg?v=1.2$image
+ufac41.com##.fr_login_form.bg_1.tt_full.tt_l
+||ufac41.com/wp-content/themes/UFAC4.COM/images/bg1.jpg?v=1.3$image
+ufac41.com##.bg_2.tt_full.tt_l
+ufac41.com##[src="http://rentm3u8.com/images/ufac4v2.gif"]
+ufac41.com##[src="http://rentm3u8.com/images/hydra888.gif"]
+ufac41.com###menu-item-16 > [href="https://ufac41.com"]
+ufac41.com##.lazyloaded.ls-is-cached
+
+
+
 ! 2023-03-10 https://moviesinhome.com
 moviesinhome.com##.list-banner-top.banner.row
 moviesinhome.com##div.list-banner-bottom.banner.row:nth-of-type(1)
