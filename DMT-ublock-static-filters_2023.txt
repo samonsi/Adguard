@@ -5,3 +5,9 @@ www.123-hd.com###banner_plow > p
 www.123-hd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
 www.123-hd.com###banner_top
 www.123-hd.com##.widget_media_image.widget
+
+! 2023-03-10 https://dunnung.com
+dunnung.com###banner-left
+dunnung.com###ads_fix_footer
+dunnung.com##.banner-upder
+dunnung.com##.active.wrap
