@@ -1,4 +1,40 @@
 
+! 2023-03-10 https://dooseries2uhd.com
+dooseries2uhd.com##.adcen-mid
+dooseries2uhd.com##div.adb:nth-of-type(1)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(1)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(2)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(3)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(5)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(6)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(4)
+dooseries2uhd.com##div.adb:nth-of-type(2)
+dooseries2uhd.com##div.adcen:nth-of-type(5)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(8)
+dooseries2uhd.com##aside.sidebar-banner:nth-of-type(7)
+
+! 2023-03-10 https://moviefree23.com
+moviefree23.com##div.ad-top-center:nth-of-type(4)
+moviefree23.com###media_image-11
+moviefree23.com##div.ad-top-center:nth-of-type(8)
+||moviefree23.com/wp-content/uploads/2022/12/banner-200x450-1*.jpg$image
+moviefree23.com##.ft-top
+
+! 2023-03-10 https://xn--2022-zeo6d9a9j5b6d.com
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(1)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(2)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(3)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(4)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(5)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(6)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(7)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(8)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(9)
+xn--2022-zeo6d9a9j5b6d.com##aside.sidebar-banner:nth-of-type(10)
+xn--2022-zeo6d9a9j5b6d.com##.content-site
+xn--2022-zeo6d9a9j5b6d.com##.ads-player
+
+
 ! 2023-03-10 https://www.123-hd.com
 www.123-hd.com##.footer-credit
 www.123-hd.com###banner_plow > p
