@@ -1,1 +1,7 @@
 
+! 2023-03-10 https://www.123-hd.com
+www.123-hd.com##.footer-credit
+www.123-hd.com###banner_plow > p
+www.123-hd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.123-hd.com###banner_top
+www.123-hd.com##.widget_media_image.widget
