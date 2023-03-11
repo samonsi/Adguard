@@ -1,4 +1,5 @@
 
+
 ! 2023-03-10 https://seriesmy.com
 seriesmy.com###block-23 > .c-widget-wrap.widget_block__inner.widget__inner > .widget-content > [href]
 seriesmy.com###block-9 > .c-widget-wrap.widget_block__inner.widget__inner > .widget-content > [href]
@@ -120,6 +121,15 @@ movie8m.co##div.my-3.banner-content-center.banner:nth-of-type(5)
 
 ! 2023-03-10 https://www.9nunghd.com
 www.9nunghd.com##.banner-top
+
+! 2023-03-10 https://series-indy.com
+series-indy.com##.kosana.sdtrue
+series-indy.com##.ftr_wgt
+series-indy.com##.bgc
+series-indy.com##.comments-area.bixbox
+
+! 2023-03-10 https://doball24.com
+doball24.com##.site-footer
 
 ! 2023-03-10 https://www.dooseries4k.com
 www.dooseries4k.com##.banner_large
