@@ -54,3 +54,33 @@ www.i-moviehd.com###site-generator
 www.i-moviehd.com##.alignnone.wp-caption
 www.i-moviehd.com##.custom-html-widget.textwidget
 
+! 2023-03-10 https://www.v8movie-hd.com
+www.v8movie-hd.com##.footer_container
+www.v8movie-hd.com##.row-kodsana-container
+www.v8movie-hd.com##div.page_margin_top.row-kodsana:nth-of-type(1)
+www.v8movie-hd.com##div.page_margin_top.row-kodsana:nth-of-type(2)
+www.v8movie-hd.com##div.page_margin_top.row-kodsana:nth-of-type(3)
+www.v8movie-hd.com##.th-font.box_header
+
+! 2023-03-10 https://fw4free.com
+fw4free.com##[href="https://bit.ly/whatlineoa"]
+fw4free.com##.adsfooter.col-md-2.col-5
+fw4free.com##.adsfooter2.col-md-2.col-5
+fw4free.com##div.mb-3.mt-3.text-center.col-12 > [href="https://bit.ly/fwufaLineoa"]
+
+! 2023-03-10 https://tvallmovie.com
+tvallmovie.com##.content-site
+
+! 2023-03-10 https://www.369movies.com
+www.369movies.com##.adlf > a[href="https://viewbet369s.com/"]
+www.369movies.com##div.side_nav-type > a[href="https://viewbet369s.com/"]
+www.369movies.com##.side-menu > .ve-cat-widget-div
+www.369movies.com##.adlf > [href="https://www.c4bet.com"]
+www.369movies.com##.right-menu > [href="https://www.c4bet.com"]
+www.369movies.com##.right-menu > [href="https://viewbet369s.com/"]
+www.369movies.com##.content-site
+www.369movies.com##.contentmovie > [href="https://viewbet369s.com/"]
+www.369movies.com##.col-in2 > [href="https://viewbet369s.com/"]
+www.369movies.com##[href="https://poipet.com/inv/a/20m0yi4DjCG3"]
+
+
