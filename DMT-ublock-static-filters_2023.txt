@@ -1,3 +1,324 @@
+! 2023-03-11 https://dunnung.com
+dunnung.com###footer
+
+! 2023-03-12 https://www.nung2hdd.com
+www.nung2hdd.com##div.sidebarborder:nth-of-type(1)
+
+! 2023-03-12 https://avsubthai.me
+avsubthai.me##.ad_foot.ad
+
+! 2023-03-12 https://www.seriesday.com
+www.seriesday.com##.article.content-category
+www.seriesday.com##.content-site
+www.seriesday.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.seriesday.com##.h1-logo
+www.seriesday.com##.copyright > p
+
+! 2023-03-12 https://avsubthai.me
+avsubthai.me##[href="https://www.ufa1913.com"]
+avsubthai.me##[href="https://www.newyork888s.co"]
+
+! 2023-03-12 https://www.watchlakorn.in
+www.watchlakorn.in##.newmainbody > .newadhead970
+||cdn.watchlakorn.in/images/footer-sub-bg.png$image
+www.watchlakorn.in##.newmainbody
+www.watchlakorn.in###adsv1
+
+! 2023-03-13 http://www.hd-series24.com
+www.hd-series24.com##[src="https://www.facebook.com/plugins/page.php?href= https://www.facebook.com/HDSeries24 %2F&tabs=timeline&width=230&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=2124626527839517"]
+
+! 2023-03-13 https://www.series-24hr.com
+www.series-24hr.com##.box-video
+
+! 2023-03-13 https://xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##.banner-float
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##.banner-top
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##div.bottom-center:nth-of-type(3)
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##.widget_media_image.widget
+||xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com/wp-content/uploads/2022/02/footer-bg.jpg$image
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##.site-footer
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##.idx-st-content > p
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##h1
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##.owl-dots
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com###box-owl
+xn--2022-zeo6d9aba3jsc0aa7c7g3hnf.com##.report-movie
+
+! 2023-03-13 https://movie2uhd.com
+movie2uhd.com##.ad
+movie2uhd.com##div.adcen:nth-of-type(2)
+movie2uhd.com##.popup.adb
+movie2uhd.com##div.adhl:nth-of-type(4)
+movie2uhd.com##aside.adcen > div.adb > [href^="https://movie2uhd.com/link-to.php"]
+movie2uhd.com##.movie > aside.adcen
+movie2uhd.com##.contentmovie > div.adcen
+movie2uhd.com##.adbr
+movie2uhd.com##div.adhl:nth-of-type(6)
+movie2uhd.com##div.adhl:nth-of-type(7)
+movie2uhd.com##div.adhl:nth-of-type(5)
+movie2uhd.com##div.adhl:nth-of-type(8)
+movie2uhd.com##div.adhl:nth-of-type(9)
+movie2uhd.com##.content-site
+movie2uhd.com##div.adhl:nth-of-type(10)
+movie2uhd.com##div.adhl:nth-of-type(11)
+movie2uhd.com##div.adhl:nth-of-type(12)
+movie2uhd.com##div.adhl:nth-of-type(13)
+movie2uhd.com##div.adhl:nth-of-type(14)
+movie2uhd.com##div.adhl:nth-of-type(15)
+movie2uhd.com##div.adhl:nth-of-type(16)
+movie2uhd.com##div.adhl:nth-of-type(17)
+movie2uhd.com##div.adhl:nth-of-type(18)
+movie2uhd.com##div.adhl:nth-of-type(19)
+movie2uhd.com##div.adhl:nth-of-type(20)
+movie2uhd.com##.copyright
+movie2uhd.com##.h1-logo
+
+! 2023-03-13 https://movie2ufree.com
+movie2ufree.com##div.adcen:nth-of-type(3)
+movie2ufree.com##div.adcen:nth-of-type(7)
+movie2ufree.com##div.adcen:nth-of-type(9)
+movie2ufree.com##.left-main > aside.sidebar-banner
+movie2ufree.com##.ads-player
+movie2ufree.com##.right-main > aside.sidebar-banner
+movie2ufree.com##.content-footter
+movie2ufree.com##.copyright
+
+! 2023-03-13 https://subserieshd.com
+subserieshd.com##.slide.content > div#banner
+subserieshd.com##div#banner:nth-of-type(1)
+subserieshd.com##div#banner:nth-of-type(2)
+
+! 2023-03-13 https://nungfree2u.com
+nungfree2u.com##.banner-top
+nungfree2u.com##div.bottom-center:nth-of-type(5)
+nungfree2u.com##.banner-player
+nungfree2u.com##div.bottom-center:nth-of-type(7)
+nungfree2u.com##div.bottom-center:nth-of-type(9)
+nungfree2u.com##.head-movies h1
+nungfree2u.com##.colophon-1
+nungfree2u.com##.ad-left
+nungfree2u.com##.ad-right
+
+! 2023-03-13 https://xn--l3ckshl0dxa4an6azf.com
+xn--l3ckshl0dxa4an6azf.com##.anime-side > .widget_media_image.widget
+xn--l3ckshl0dxa4an6azf.com##.owl-stage
+xn--l3ckshl0dxa4an6azf.com##.mt-2.ad-bottom-content
+xn--l3ckshl0dxa4an6azf.com##.site-footer
+xn--l3ckshl0dxa4an6azf.com##.anime-content > .text-white
+xn--l3ckshl0dxa4an6azf.com##.ad-side-player
+xn--l3ckshl0dxa4an6azf.com##.my-4.anime-comments
+
+! 2023-03-13 https://moviedee24.com
+moviedee24.com##.banner-top
+moviedee24.com##div.bottom-center:nth-of-type(4)
+moviedee24.com##.banner-player
+moviedee24.com##div.bottom-center:nth-of-type(9)
+moviedee24.com##.site-footer
+moviedee24.com##.ad_f1
+
+! 2023-03-13 https://1112hd.com
+1112hd.com##.tt_banner_head
+1112hd.com##.mobile-1.tablet-2.pc-2.tt_banner_above_vdo_player
+1112hd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+1112hd.com##.tt_comment > h2
+
+! 2023-03-13 https://serieshd24.com
+serieshd24.com##.banner-player
+serieshd24.com##div.bottom-center:nth-of-type(5)
+serieshd24.com##div.bottom-center:nth-of-type(7)
+serieshd24.com##.logo-footer
+serieshd24.com##.show-comment
+serieshd24.com##.content-serires
+serieshd24.com##.menu-item-4748.menu-item-object-page.menu-item-type-post_type.menu-item
+
+! 2023-03-13 https://newseries-hd.com
+newseries-hd.com##aside.sidebar-banner:nth-of-type(1)
+newseries-hd.com##.admid
+newseries-hd.com##aside.sidebar-banner:nth-of-type(2)
+newseries-hd.com##aside.sidebar-banner:nth-of-type(3)
+newseries-hd.com##aside.sidebar-banner:nth-of-type(4)
+newseries-hd.com##aside.sidebar-banner:nth-of-type(5)
+newseries-hd.com##aside.sidebar-banner:nth-of-type(6)
+newseries-hd.com##aside.sidebar-banner:nth-of-type(7)
+newseries-hd.com##div.adcen:nth-of-type(5)
+newseries-hd.com##.widget_custom_html.widget_text
+newseries-hd.com##div.adcen:nth-of-type(6)
+newseries-hd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+newseries-hd.com##.content-site > .container
+newseries-hd.com##footer > figure
+newseries-hd.com##.ad-top > .ad-top-center
+newseries-hd.com##.menu-item-21774.menu-item-object-page.menu-item-type-post_type.menu-item
+
+! 2023-03-13 https://xn--168-illyhf9jb2s.com
+xn--168-illyhf9jb2s.com###ads_02
+xn--168-illyhf9jb2s.com###ads_03
+xn--168-illyhf9jb2s.com###wpdevar_comment_1
+xn--168-illyhf9jb2s.com##.bnn-1.bnn-content.ws-bnn
+xn--168-illyhf9jb2s.com##.site-branding
+xn--168-illyhf9jb2s.com##.site-info.card-body
+
+! 2023-03-13 https://new-serieshd.com
+new-serieshd.com###comments > .mb-3.border-warning.card > .card-body
+new-serieshd.com##.site-info.card-body
+new-serieshd.com##.bg-warning.text-light.ws-card-text.ws-card-single.card-header > h2
+
+! 2023-03-13 https://baan-series.co
+baan-series.co###misa-content > .row > .col-lg-12
+baan-series.co###floating_banner_top
+baan-series.co##[href="https://lockdown1681.com"]
+baan-series.co##.col-12 > .text-center
+baan-series.co##.card > [href="https://t.me/BNA2345"]
+baan-series.co##.footer
+baan-series.co##[href^="https://www.512xiaojin.com/th-th"]
+baan-series.co##[href="https://mahagame882.com"]
+baan-series.co##[href="https://ufazeed1.com"]
+baan-series.co##[href="https://panama888.cc/"]
+baan-series.co##.text-center > .card > .card-body
+baan-series.co##div.mb-3.col-lg-12 > .row > .col-lg-12
+
+! 2023-03-13 https://www.dooseries4k.com
+www.dooseries4k.com##.footer
+
+! 2023-03-13 https://tvallseries.com
+tvallseries.com###custom_html-7 > .custom-html-widget.textwidget > [href]
+tvallseries.com##.primary
+tvallseries.com##.copy
+tvallseries.com###menu-menu-top > .menu-item-15857.menu-item-object-custom.menu-item-type-custom.menu-item > [href="https://line.me/ti/p/~@218stcnr"]
+tvallseries.com##[href="https://newyork888s.com"]
+tvallseries.com##[href="https://lin.ee/pk1JIlT"]
+tvallseries.com##[href="https://london168.com"]
+
+! 2023-03-13 https://www.24-hd.com
+www.24-hd.com##.adcen > .adt > p > [href^="/link_to.php"]
+www.24-hd.com##.adrg > p > [href^="/link_to.php"]
+www.24-hd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.24-hd.com##.adl
+www.24-hd.com##.right-menu > .adhl
+www.24-hd.com##.content-col2 > .adcen
+www.24-hd.com##.adlf > .adhl
+www.24-hd.com##.ad > .adlf
+www.24-hd.com##.content-site
+
+! 2023-03-13 https://series2u.com
+series2u.com##[href="https://www.ufazeed1.com/"] > .bottom-fix-banner
+series2u.com##[href="https://kingdom661.com/"] > .bottom-fix-banner
+series2u.com##div.banner-fix:nth-of-type(1)
+series2u.com##a[href="https://betplus99.com/"]:nth-of-type(1)
+series2u.com##div.banner-fix:nth-of-type(5)
+series2u.com##div.banner-fix:nth-of-type(4)
+series2u.com##div.banner-fix:nth-of-type(2)
+series2u.com##div.banner-fix:nth-of-type(3)
+series2u.com##.banner-fast
+series2u.com##.filmborder > div > [href="https://hengpao88.com"]
+series2u.com##.movie-description > [href="https://hengpao88.com"]
+series2u.com##a[href="https://betplus99.com/"]:nth-of-type(2)
+series2u.com##.container > div > figure
+series2u.com##.close-ad
+series2u.com##[href="https://newyork888s.co/"] > .banner_large
+series2u.com##.banner-table-player.w-100
+series2u.com##.content-main > [href="https://hengpao88.com"]
+series2u.com###wrap > [href="https://hengpao88.com"]
+series2u.com##.container
+
+! 2023-03-13 https://animeriku.com
+animeriku.com##.banner-wrapper
+
+! 2023-03-13 https://doonungonline.com
+doonungonline.com###show_ads_c1
+doonungonline.com##.fbox
+doonungonline.com###comments
+
+! 2023-03-13 https://www.inw-series.org
+www.inw-series.org###widget_ads2
+www.inw-series.org###widget_ads3
+www.inw-series.org###widget_ads1
+www.inw-series.org###after-player-ads .custom-html-widget.textwidget > [href]
+www.inw-series.org##[href="https://newyork888s.co"]
+www.inw-series.org##[href="https://london1681.com"]
+
+! 2023-03-13 https://www.tvseriesclub.me
+www.tvseriesclub.me###widget_ads1
+www.tvseriesclub.me###widget_ads3
+www.tvseriesclub.me###widget_ads2
+www.tvseriesclub.me##[href="https://brazil999.co"]
+www.tvseriesclub.me##.custom-html-widget.textwidget > div > [href]
+
+! 2023-03-13 https://www.doomovie-hd.com
+www.doomovie-hd.com##div.m-auto.horizontal-ad-bar100-h360 > [href="https://line.me/ti/p/@Doomovie-HD"]
+www.doomovie-hd.com##.clearfix.mb-3.mt-3
+www.doomovie-hd.com##.footer_content
+www.doomovie-hd.com##.position-relative.player-container > div > div > div
+www.doomovie-hd.com##div.m-auto.horizontal-ad-bar100-h360:nth-of-type(6)
+www.doomovie-hd.com##div.m-auto.horizontal-ad-bar100-h360:nth-of-type(5)
+www.doomovie-hd.com##div:nth-of-type(8)
+www.doomovie-hd.com##div.horizontal-ad-bar100-small:nth-of-type(1)
+www.doomovie-hd.com##div.horizontal-ad-bar100-small:nth-of-type(2)
+www.doomovie-hd.com##div.m-auto.horizontal-ad-bar100-h360:nth-of-type(1)
+www.doomovie-hd.com##div.m-auto.horizontal-ad-bar100-h360:nth-of-type(2)
+
+! 2023-03-13 https://www.movie678.com
+www.movie678.com###show_ads_c1
+www.movie678.com###aaa-banner-left
+www.movie678.com###ccc-banner-left
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/50"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/51"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/294"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/295"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/200"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/330"]
+www.movie678.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.movie678.com##.footerleft
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/48"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/49"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/288"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/323"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/324"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/171"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/329"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/337"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/214"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/107"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/202"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/293"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/287"]
+
+! 2023-03-13 https://www.fwiptv.tv
+www.fwiptv.tv##div.m-1.text-center.mb-1.col-20.col-md-20.col-lg-20:nth-of-type(1)
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/198"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/238"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/177"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/271"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/270"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/272"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/282"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/269"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/179"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/180"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/181"]
+www.fwiptv.tv##[src="https://www.fwiptv.tv/images/banners/olLlvoOivCScGZBvTzRzrRT7vlzskIO772x130-bz.gif"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/274"]
+www.fwiptv.tv##.px-2.py-2.row
+www.fwiptv.tv##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.fwiptv.tv##.copyright
+
+! 2023-03-13 https://ssdmovie.com
+ssdmovie.com##.d-none.d-lg-block.col-lg-2.col-12 > [href]
+ssdmovie.com##[href="https://hotgraph883.com"]
+ssdmovie.com##[href="https://hydra8882.com"]
+ssdmovie.com##[href="https://ufac41.com"]
+ssdmovie.com##[href="https://lotto432s.co"]
+ssdmovie.com##[href="https://brazil999.co"]
+ssdmovie.com##div.mb-2.bg-transparent.card > [href="https://bit.ly/2Tv2a0p"]
+ssdmovie.com##[href="https://www.ufahi88.com/"]
+ssdmovie.com##[href="https://newyork888s.com"]
+ssdmovie.com##[href="https://ufazeed1.com"]
+ssdmovie.com##[href="https://kingdom662.com"]
+ssdmovie.com##[href="https://lockdown1681.com"]
+ssdmovie.com##[href="https://bit.ly/36sedhQ"]
+ssdmovie.com##[href="https://london168.com"]
+ssdmovie.com##.copyright > p
+||ssdmovie.com/wp-content/uploads/2021/07/banner-hmovie.jpg$image
+ssdmovie.com##.col-lg-6.col-md-6.col-12.d-md-block.d-none.text-center.head-top-text
+
 
 
 ! 2023-03-10 https://seriesmy.com
