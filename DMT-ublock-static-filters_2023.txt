@@ -586,3 +586,394 @@ www.anime-masters.com##.footer.jumbotron
 ||go.eroadvertising.com/banner.go$subdocument
 ||i.imgur.com/NxUVLbm.jpg$image
 
+! 2023-03-14 https://www.watchlakorn.in
+||cdn.watchlakorn.in/images/footer-sub-bg.png$image
+www.watchlakorn.in##.newfooter-box
+www.watchlakorn.in###showname > .ad_home
+www.watchlakorn.in##span.title_face9:nth-of-type(3)
+
+! 2023-03-16 https://doonung99.com
+doonung99.com##footer.main
+doonung99.com###comments
+doonung99.com##div.sbox:nth-of-type(9)
+
+! 2023-03-18 https://moddingzone.in
+moddingzone.in##.post-hover.post-inner
+moddingzone.in###header > .group.container
+moddingzone.in##.fixed-header-on.no-header-img.topbar-transparent.header-ads-desktop.main_menu.one-mobile-menu.main-menu-mobile-on
+moddingzone.in##div.group.hu-pad:nth-of-type(2)
+moddingzone.in##.group.hu-pad.page-title
+moddingzone.in##.collapsed.s1.sidebar > .sidebar-toggle
+moddingzone.in###footer-bottom > .container-inner > .group.hu-pad
+moddingzone.in##.group.container.nav
+moddingzone.in###footer-bottom > .container-inner
+
+! 2023-03-18 https://indianshortner.com
+indianshortner.com##.animated.zoomIn.wow.text-center.py-5
+indianshortner.com##.container-fluid
+indianshortner.com##.blog-content > p
+indianshortner.com##.animated.fadeInDown.wow.navbar-dark.navbar-expand-lg.osahan-navbar.navbar
+
+
+
+! 2023-03-18 https://www.nung2hdd.com
+www.nung2hdd.com###alt
+www.nung2hdd.com##h3
+www.nung2hdd.com##div.filmborder:nth-of-type(11) > .filmcontent > .yazitip
+www.nung2hdd.com##.imdbstar
+
+
+! 2023-03-18 https://www.123-hd.com
+www.123-hd.com###custom_html-2 > .custom-html-widget.textwidget
+
+! 2023-04-04 https://1412hd.com
+1412hd.com##.flex-col.flex.bg-black.mx-auto.container.main-content > .md\:space-x-4.justify-center.flex-warp.md\:flex.px-4.mx-auto.py-4.bg-gray-800.container.footer-bottom
+1412hd.com##.ads-info
+
+! 2023-04-08 https://1fichier.com
+1fichier.com###footer
+
+! 2023-04-08 https://downloader.twdown.online
+downloader.twdown.online##.about_details.col-lg-12
+downloader.twdown.online##.has_subtitle.download_tips
+downloader.twdown.online##.footer_bottom
+downloader.twdown.online##section.sec_pad.whyuse_details_area:nth-of-type(5)
+downloader.twdown.online##section.sec_pad.whyuse_details_area:nth-of-type(4)
+downloader.twdown.online##section.sec_pad.whyuse_details_area:nth-of-type(8)
+downloader.twdown.online##section.sec_pad.whyuse_details_area:nth-of-type(6)
+downloader.twdown.online##section.sec_pad.whyuse_details_area:nth-of-type(3)
+downloader.twdown.online##section.sec_pad.whyuse_details_area:nth-of-type(7)
+downloader.twdown.online##.appTui
+
+! 2023-04-09 https://www.cnxseed.com
+www.cnxseed.com##center > div > [href^="https://www.cnxseed.com/cmxseedforumn/index.php"]
+
+! 2023-04-24 https://www.watchlakorn.in
+www.watchlakorn.in##.content-right > div > .ad_home
+
+! 2023-05-02 https://doujin4u.com
+doujin4u.com##.dessert-frame
+doujin4u.com###ads_fox_bottom
+doujin4u.com##div.kln:nth-of-type(3)
+doujin4u.com##div.kln:nth-of-type(6)
+doujin4u.com###wpdevar_comment_1
+doujin4u.com###comments > .releases
+doujin4u.com##.copyright
+
+! 2023-05-02 https://loanhelpful.net
+loanhelpful.net##.post-components
+loanhelpful.net##.tagcloud
+loanhelpful.net##.clearfix.entry.entry-content
+loanhelpful.net##.site-info-layout-2.site-info
+loanhelpful.net##.entry-title.post-title
+loanhelpful.net##.fixed-bottom.fixed-top.fixed.default-behavior-mode.live-search-parent.header-nav.main-nav
+loanhelpful.net##.main-menu-wrapper
+loanhelpful.net##.main-nav-wrapper
+loanhelpful.net##.clearfix.logo-container.tie-col-md-4
+loanhelpful.net##.post-cat-wrap
+loanhelpful.net##.entry-header-outer
+loanhelpful.net###top-nav > .container
+
+! 2023-05-02 https://count.vipurl.in
+count.vipurl.in##.copyright-container
+||1.bp.blogspot.com/-ge8pXh39CwI/YTNP45ocPeI/AAAAAAAAAKY/oHi3KcADc6Uc6VINRxoocPvbo3z1wPk2QCLcBGAsYHQ/s3121/vipback.jpg$image
+
+! 2023-05-02 https://bastinews.xyz
+bastinews.xyz##.main-content-row.tie-row
+
+! 2023-05-02 https://miku-doujin.com
+miku-doujin.com##.mb-3.text-center.container
+miku-doujin.com##.card-body > .mb-3.text-center
+
+! 2023-05-02 https://manghaha.com
+manghaha.com##.mb-3.text-center.container-fluid
+
+! 2023-05-18 https://www.108read.com
+www.108read.com##.ads
+www.108read.com##.surprise
+
+! 2023-05-19 https://www.108read.com
+www.108read.com##.th
+www.108read.com##.commentx.cmt
+www.108read.com##.site-footer
+www.108read.com###comments > .releases
+
+! 2023-05-29 https://www.ufazeed2.com
+www.ufazeed2.com##.slide_a.tt_full.tt_l
+www.ufazeed2.com##.fix_footer
+www.ufazeed2.com##.footer_cx.tt_full.tt_l
+www.ufazeed2.com##.footer.tt_full.tt_l
+||www.ufazeed2.com/wp-content/uploads/2021/06/logo-ufazeed-v2.png$image
+
+! 2023-06-03 https://www.ballnaja.com
+www.ballnaja.com##.footer-bar-nav-component
+www.ballnaja.com##.align-center.justify-space-between.d-flex.main-container
+www.ballnaja.com##.v-toolbar__content
+www.ballnaja.com##.v-app-bar--fixed.v-app-bar.v-toolbar--flat.v-toolbar.theme--light.v-sheet.main-header
+www.ballnaja.com##.footer-bar-component
+www.ballnaja.com##.v-carousel__controls
+||www.ballnaja.com/images/banner/money.webp$image
+||www.ballnaja.com/images/banner/money.webp$image
+||www.ballnaja.com/images/banner/money.webp$image
+www.ballnaja.com##.col-6.col-md-7.text-center
+www.ballnaja.com##.bg-color-card-3.no-gutters.row
+www.ballnaja.com##.theme--light.v-carousel__item.v-responsive.v-image > .v-responsive__content
+www.ballnaja.com##.theme--light.v-carousel__item.v-responsive.v-image
+www.ballnaja.com##div.carousel-item.v-window-item:nth-of-type(1)
+www.ballnaja.com##div.carousel-item.v-window-item:nth-of-type(2)
+www.ballnaja.com##.v-window__container
+www.ballnaja.com##.website-width.mb-4.mt-2.banner-component
+www.ballnaja.com##.box-items
+
+! 2023-06-03 https://livescore24-th.com
+livescore24-th.com##a.-banner:nth-of-type(1)
+livescore24-th.com##.py-1.text-center.no-padding.container
+
+! 2023-06-05 https://yedlove.com
+yedlove.com##.entry-header > div.text-center.yed-cen
+yedlove.com###main > .text-center.yed-cen
+yedlove.com##.one-column-footer
+yedlove.com##.logo-footer
+yedlove.com##.site-info
+yedlove.com###ads_04
+yedlove.com##.site-footer
+yedlove.com##p:nth-of-type(2)
+yedlove.com##p:nth-of-type(3)
+yedlove.com##p:nth-of-type(4)
+yedlove.com##p:nth-of-type(5)
+yedlove.com##h2:nth-of-type(2)
+yedlove.com###main > h3
+yedlove.com###main > h2
+
+! 2023-06-10 https://mixrootmod.com
+mixrootmod.com##div.group.hu-pad:nth-of-type(2)
+mixrootmod.com##.central-header-zone.hu-pad.group
+mixrootmod.com##.collapsed.s2.sidebar > .sidebar-content > .group.sidebar-top > p
+mixrootmod.com##.collapsed.s1.sidebar > .sidebar-content > .group.sidebar-top
+mixrootmod.com###footer-bottom > .container-inner > .group.hu-pad
+mixrootmod.com###footer-bottom > .container-inner
+
+! 2023-06-16 https://www.seriesday.com
+www.seriesday.com##.ad
+
+! 2023-06-21 https://www.seriesday.com
+www.seriesday.com##.content-col2 > .adcen
+www.seriesday.com##.right-menu > .adhl
+www.seriesday.com##.adlf > .adhl
+www.seriesday.com##.adl
+www.seriesday.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.seriesday.com##.content-site
+www.seriesday.com##.article.content-category
+www.seriesday.com##.copyright
+
+
+
+! 2023-06-22 https://av-subthai.net
+av-subthai.net##.b-ads
+av-subthai.net##.su-tabs-pane-open.tabindex-0.su-clearfix.su-tabs-pane > center > p > [href="https://16882sagame.com"]
+av-subthai.net##[href="https://sexygame1688s.co"]
+
+! 2023-06-25 https://dooball66s.com
+dooball66s.com##[href="https://ufanance.co"]
+dooball66s.com##[href="https://ufafat.com"]
+dooball66s.com##[href="https://lotto432s.co"]
+dooball66s.com##h2:nth-of-type(1)
+dooball66s.com##center:nth-of-type(2)
+dooball66s.com##[src^="https://www.facebook.com/v16.0/plugins/comments.php?app_id=2213648992289349&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2fd9a2babbcd1c%26domain%3Ddooball66s.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%"]
+dooball66s.com##.no-padding.panel-body.entry-content > div:nth-of-type(4)
+dooball66s.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+dooball66s.com##.entry-header > .panel-heading
+
+! 2023-06-29 https://www.123-hd.com
+www.123-hd.com###banner_top > p
+www.123-hd.com##div.clearfix.htmlwrap:nth-of-type(16)
+www.123-hd.com##.alignnone.wp-caption
+www.123-hd.com##.footer-credit
+www.123-hd.com##.col-xs-4.halim-social-plugin
+www.123-hd.com###custom_html-5 > .custom-html-widget.textwidget
+
+! 2023-06-29 https://www.nung2hdd.com
+www.nung2hdd.com##div.rIdV-top:nth-of-type(1)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(2)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(3)
+www.nung2hdd.com##div.sidebarborder:nth-of-type(1)
+www.nung2hdd.com###footer
+www.nung2hdd.com##div.rIdV-top:nth-of-type(14)
+www.nung2hdd.com##[href="https://ufazeed2.com"]
+www.nung2hdd.com##div.rIdV-top:nth-of-type(13)
+www.nung2hdd.com##div.rIdV-inpost:nth-of-type(3)
+www.nung2hdd.com##div.rIdV-inpost:nth-of-type(4)
+www.nung2hdd.com##div.rIdV-inpost:nth-of-type(2)
+www.nung2hdd.com##div.rIdV-mid:nth-of-type(19)
+www.nung2hdd.com##.rIdV-mid-end
+www.nung2hdd.com##div.rIdV-mid:nth-of-type(18)
+www.nung2hdd.com##div.rIdV-mid:nth-of-type(17)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(12)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(11)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(10)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(4)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(5)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(6)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(7)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(8)
+www.nung2hdd.com##div.rIdV-top:nth-of-type(9)
+www.nung2hdd.com##div.sidebarborder:nth-of-type(2)
+www.nung2hdd.com##div.filmborder:nth-of-type(23)
+
+! 2023-07-17 https://ca.ohraw.com
+ca.ohraw.com##.font-12x.lh-16.content-text
+
+! 2023-07-17 https://us.booknovel.net
+us.booknovel.net##div#drr-container.cat:nth-of-type(2)
+us.booknovel.net##.mb-3.content-text.lh-16.font-12x > p
+us.booknovel.net##.code-block-9.code-block
+us.booknovel.net##.mb-3.content-text.lh-16.font-12x
+us.booknovel.net##.font-bold.font-18x
+
+! 2023-07-17 https://eu.booknovel.net
+eu.booknovel.net##div#drr-container.cat:nth-of-type(1)
+eu.booknovel.net##.font-12x.lh-16.content-text > p
+eu.booknovel.net##div#drr-container.cat:nth-of-type(2)
+eu.booknovel.net##div.over-container.p-lg-3.p-2.border.bg-white:nth-of-type(2)
+eu.booknovel.net##.font-bold.font-18x
+
+! 2023-07-17 https://leechpub.com
+leechpub.com##center
+
+! 2023-07-17 https://us.ohraw.com
+us.ohraw.com##p.p1 > .s1
+us.ohraw.com##.code-block-9.code-block > p
+us.ohraw.com##.code-block-10.code-block
+us.ohraw.com##.code-block-11.code-block
+us.ohraw.com##h3:nth-of-type(2)
+us.ohraw.com##p:nth-of-type(14)
+us.ohraw.com##.font-12x.lh-16.content-text > h3
+us.ohraw.com##h2 > .s1 > b
+
+! 2023-07-17 https://uk.ohraw.com
+uk.ohraw.com##p:nth-of-type(2)
+||uk.ohraw.com/wp-content/uploads/2021/08/51*.jpg$image
+uk.ohraw.com##.is-insider.cat
+uk.ohraw.com##.text-white.font-9x.py-3.bg-primary
+
+! 2023-07-17 https://ca.ohraw.com
+ca.ohraw.com##.text-white.font-9x.py-3.bg-primary
+
+! 2023-07-17 https://us.booknovel.net
+us.booknovel.net##.text-white.font-9x.py-3.bg-primary
+
+! 2023-07-17 https://eu.booknovel.net
+eu.booknovel.net##.font-12x.lh-16.content-text
+eu.booknovel.net##.text-white.font-9x.py-3.bg-primary
+
+! 2023-07-17 https://us.ohraw.com
+us.ohraw.com##.font-12x.lh-16.content-text
+
+! 2023-07-17 https://uk.ohraw.com
+uk.ohraw.com##.mb-3.content-text.lh-16.font-12x
+
+! 2023-08-05 https://thisav.com
+thisav.com##.pt-8.border-gray-700.border-t.my-12
+thisav.com##.xl\:col-span-1.space-y-4
+
+! 2023-08-05 https://mixrootmod.com
+mixrootmod.com##.group.main-inner
+mixrootmod.com##.no-header-img.topbar-transparent.header-ads-desktop.main_menu.one-mobile-menu.main-menu-mobile-on
+
+! 2023-08-07 https://djxmaza.in
+djxmaza.in##.aboutDis
+djxmaza.in##.position-absolute.p-5.footer
+djxmaza.in##.aboutSite
+djxmaza.in##.navbar-expand-lg.navbar
+
+! 2023-08-07 https://thecubexguide.com
+thecubexguide.com##.aboutDis
+thecubexguide.com##.position-absolute.p-5.footer
+thecubexguide.com##.aboutSite
+
+! 2023-08-07 https://dev.miuiflash.com
+dev.miuiflash.com##div.mb-4.aboutFile.col-md-12.col-lg-6:nth-of-type(2)
+dev.miuiflash.com##div.mb-4.aboutFile.col-md-12.col-lg-6:nth-of-type(3)
+dev.miuiflash.com##div.mb-4.aboutFile.col-md-12.col-lg-6:nth-of-type(7)
+dev.miuiflash.com##.position-absolute.p-5.footer
+dev.miuiflash.com##div.mb-4.aboutFile.col-md-12.col-lg-6:nth-of-type(10)
+dev.miuiflash.com##.navbar-expand-lg.navbar
+
+! 2023-08-11 https://apkadmin.com
+apkadmin.com##div.text-left.about-apk:nth-of-type(8)
+apkadmin.com###footer
+apkadmin.com##div.text-left.about-apk:nth-of-type(2)
+apkadmin.com##.text-left.about-apk
+apkadmin.com###header
+
+! 2023-08-15 https://krx18.com
+krx18.com###comments
+krx18.com##.fcmpbox
+krx18.com##center:nth-of-type(1)
+
+! 2023-08-17 https://technoinformations.com
+technoinformations.com###tie-wrapper
+
+! 2023-08-25 https://livescorethai.net
+livescorethai.net##[href="https://lin.ee/wWUQ1x9"]
+
+! 2023-08-28 https://www.apkmoddone.com
+www.apkmoddone.com###adBot > .adB
+www.apkmoddone.com###HTML95 > .adB
+www.apkmoddone.com##.relatedPostsAd > .adB
+www.apkmoddone.com##div.pAdin.ntry > .adB
+
+! 2023-08-28 https://uploadrar.com
+uploadrar.com##.txt
+uploadrar.com##.container > .row
+uploadrar.com###footer2 > .container > .clearfix
+uploadrar.com##.container > ul
+uploadrar.com###footer2 > .container
+uploadrar.com###footer2
+
+! 2023-08-30 https://xn--l3cmwb9e3d4b.com
+xn--l3cmwb9e3d4b.com###ads_02
+xn--l3cmwb9e3d4b.com###ads_03
+xn--l3cmwb9e3d4b.com##.site-footer
+xn--l3cmwb9e3d4b.com##.video-wrapper > div.text-center.cat-ban
+xn--l3cmwb9e3d4b.com##.c-container.container
+xn--l3cmwb9e3d4b.com##.banner-video
+
+! 2023-08-30 https://anime-indy.com
+anime-indy.com##.mb-no-p.bg-none.container.a_head
+anime-indy.com##[href="https://www.sexygame1688s.co/"] > .pmloaded.entered.perfmatters-lazy.img-fluid
+
+! 2023-09-03 https://thecubexguide.com
+thecubexguide.com##.report
+
+! 2023-09-03 https://www.up-4ever.net
+www.up-4ever.net###app-footer-block > .blue-gradient-mask
+www.up-4ever.net##.top-navbar.fadeIn.wow.scrolling-navbar.fixed-top.navbar-dark.navbar-expand-lg.navbar
+
+! 2023-09-03 https://www.file-upload.in
+www.file-upload.in###pop > .row
+www.file-upload.in##footer
+
+! 2023-09-04 https://www.lehanhpc.net
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJyvsGC8Cx39B9t3qrij2IOrwq-lu_Aaq-X088nzjtqbEbhAh0E9ucaTyXkDmEicyBZieiYW2m25Jz2OKqpOu0vBkkJ0LuhUjeb3CjJ2xLzeXIwg9HleQUpj6ZInNt462SGpiyK5YXGHWkDC70hU0sLL1oDvb7ke1PSwxt8ZO64G0klKuibwny38CTEWw/s800/Dich%20vu%20Le%20Hanh.png$image
+www.lehanhpc.net##.top-info > p
+www.lehanhpc.net###left_ads_float
+
+! 2023-09-09 https://dunnung.com
+dunnung.com###block-7 [href="https://meehay569.com/"]
+dunnung.com##p:nth-of-type(2)
+dunnung.com###block-7
+
+! 2023-09-09 https://320hd.com
+320hd.com##.archive-description
+
+! 2023-09-09 https://www.pornxbit.com
+||go.eroadvertising.com/banner.go$subdocument
+||adserver.juicyads.com/adshow.php$subdocument
+||adserver.juicyads.com/adshow.php$subdocument
+||go.eroadvertising.com/banner.go$subdocument
+||adserver.juicyads.com/adshow.php$subdocument
+||cdn.tubecorp.com/i/b.html$subdocument
+||go.eroadvertising.com/banner.go$subdocument
+||i.imgur.com/NxUVLbm.jpg$image
+
