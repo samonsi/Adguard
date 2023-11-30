@@ -977,3 +977,203 @@ dunnung.com###block-7
 ||go.eroadvertising.com/banner.go$subdocument
 ||i.imgur.com/NxUVLbm.jpg$image
 
+! 2023-10-21 https://www.123-hd.com
+www.123-hd.com##.size-full.attachment-full.wp-image-80860.image
+www.123-hd.com##div.clearfix.htmlwrap:nth-of-type(16)
+www.123-hd.com##.footer-credit
+||www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100083876220125&tabs&width=300&height=320&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1154081618459942$subdocument
+www.123-hd.com###custom_html-5 > .custom-html-widget.textwidget
+
+! 2023-10-21 https://lrepacks.net
+lrepacks.net##.donat-cont
+lrepacks.net###e9c681e3c8_c_0
+
+! 2023-10-21 https://download.oxy.cloud
+||download.oxy.cloud/slake/asset/img/bg/footer-bg.png$image
+download.oxy.cloud##.footer-main
+download.oxy.cloud##.foter-botom
+download.oxy.cloud##.solution-area
+
+! 2023-10-21 https://dunnung.com
+dunnung.com##.code-block-6.code-block
+dunnung.com##.footer-info
+dunnung.com##[src^="https://www.facebook.com/v13.0/plugins/comments.php?app_id=617412632495128&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df348752db7df8d4%26domain%3Ddunnung.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F"]
+
+! 2023-10-21 https://oxy.cloud
+oxy.cloud##.footer-area
+oxy.cloud##.header-top-area
+
+! 2023-10-22 https://www.siambit.me
+www.siambit.me##[href="http://bit.ly/30cqwil"]
+www.siambit.me##[href="https://www.55amb.io"]
+
+! 2023-10-23 https://www.siambit.me
+www.siambit.me##[src="pic/usericon/393835.gif"]
+www.siambit.me##[src^="pic/new1.gif"]
+
+! 2023-10-23 https://krx18.com
+krx18.com##iframe.lazyloaded:nth-of-type(3)
+krx18.com##[href="https://bit.ly/3ErPuvb"]
+krx18.com###dsq-app9850
+krx18.com##.fcmpbox
+krx18.com##center:nth-of-type(1)
+
+! 2023-10-23 https://javeng.com
+javeng.com##.comments-area
+javeng.com##footer.main
+
+! 2023-10-23 https://www.123-hd.com
+www.123-hd.com###banner_top > p
+www.123-hd.com###banner_pmid > p
+www.123-hd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+
+! 2023-10-24 https://www.aznude.com
+www.aznude.com##.aznlive-banner
+
+! 2023-10-28 https://dooball66s.com
+||www.facebook.com/v16.0/plugins/comments.php?app_id=2213648992289349&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df4c4b03921bdc%26domain%3Ddooball66s.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fdooball66s.com%252Ff374e6eb5595814%26relation%3Dparent.parent&container_width=752&height=100&href=https%3A%2F%2Fdooball66s.com%2F&locale=th_TH&numposts=5&sdk=joey&version=v16.0&width=$subdocument
+dooball66s.com##[src^="https://www.facebook.com/v16.0/plugins/comments.php?app_id=2213648992289349&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df4c4b03921bdc%26domain%3Ddooball66s.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%25"]
+dooball66s.com##.px-4.py-4.col-md-12
+dooball66s.com##.no-padding.panel-body.entry-content > div:nth-of-type(6)
+dooball66s.com##h2
+dooball66s.com##.addtoany_content_top.addtoany_content.addtoany_share_save_container
+dooball66s.com##.panel-heading
+dooball66s.com##[href="https://ufafat.com"]
+dooball66s.com##[href="https://ufanance.co"]
+dooball66s.com##[href="https://lotto432s.co"]
+dooball66s.com##[href="https://sexygame6662.com"]
+dooball66s.com##[href="https://ufazeed2.com"]
+dooball66s.com##[href="https://kingdom662.com"]
+dooball66s.com##.col-7
+dooball66s.com##p:nth-of-type(3)
+
+! 2023-10-28 https://oxy.st
+oxy.st##.footer-area
+oxy.st##.section-padding_bottom_m.section-padding_top_none.section-padding.text-block_align_center.text-block
+
+! 2023-10-28 https://www.bybe2movie.com
+www.bybe2movie.com##.content-site
+www.bybe2movie.com##div.ad-box-widget:nth-of-type(1)
+www.bybe2movie.com##[href="https://16882sagame.com"] > .lazyloaded
+www.bybe2movie.com##[href="https://sexygame1688s.co"] > .lazyloaded
+www.bybe2movie.com##p.co > [href]
+www.bybe2movie.com##[href="https://sexygame1688.bet"]
+www.bybe2movie.com##[href="https://juad888x.com"]
+www.bybe2movie.com##[href="https://16883sagame.com"]
+www.bybe2movie.com##.content-site
+www.bybe2movie.com##.img-banner
+
+! 2023-10-29 https://av-subthais.net
+av-subthais.net##.b-ads
+av-subthais.net##.su-tabs-pane-open.tabindex-0.su-clearfix.su-tabs-pane > center > p > [href="https://16883sagame.com"] > .img-ads
+av-subthais.net##[href="https://sexygame1688.bet"] > .img-ads
+
+! 2023-11-01 https://missax.com
+missax.com##.create-account
+
+! 2023-11-02 https://www.mediafire.com
+www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-uploadLocation
+www.mediafire.com##div.DLExtraInfo:nth-of-type(1)
+www.mediafire.com##.DLExtraInfo-column.DLExtraInfo-accountStatus
+www.mediafire.com##.footer
+www.mediafire.com##.description
+www.mediafire.com###ezwrp-107
+www.mediafire.com###ezwrp-104
+www.mediafire.com##.DLExtraInfo-wrap
+www.mediafire.com###ezwrp-105
+www.mediafire.com###ezwrp-103
+www.mediafire.com###ezwrp-106
+
+! 2023-11-07 https://www.cnxseed.com
+www.cnxseed.com##[src="https://www.cnxseed.com/cmxseedforumn/Themes/darkmodern204/images/top-banner1000x150.jpg"]
+
+! 2023-11-07 https://mawtoload.com
+mawtoload.com###banner-post
+
+! 2023-11-08 https://ufacompany1.com
+ufacompany1.com###sticky-ads-bottom
+ufacompany1.com###sticky-ads-bottom3
+ufacompany1.com###sticky-ads-bottom4
+ufacompany1.com###sticky-ads-bottom2
+ufacompany1.com###image_119803451 > .dark.img-inner
+ufacompany1.com##h1
+ufacompany1.com##.-shortcode.seed-social
+ufacompany1.com##.fb-share-button
+||ufabetcompany.autowinac.com/wp-content/uploads/2022/02/ufacom_Pc_04.jpg$image
+||ufacompany1.com/wp-content/uploads/2022/12/football-betting.gif$image
+ufacompany1.com##.html_nav_position_text_top.custom.html [href] > .lazyloaded.entered
+ufacompany1.com###top-bar > .container.flex-row
+ufacompany1.com##.lazyloaded.entered.header-logo-dark
+ufacompany1.com###mobile-login
+ufacompany1.com##.nav-uppercase.nav-left.nav.header-nav-main.header-nav
+ufacompany1.com##.medium-logo-center.logo-left.container.flex-row.header-inner
+ufacompany1.com##.hide-for-medium.flex-has-center.nav-dark.hide-for-sticky.header-top
+ufacompany1.com##.nav-dark.hide-for-sticky.header-main
+ufacompany1.com##.-left-wrapper
+
+! 2023-11-08 https://uploadrar.com
+uploadrar.com##footer
+uploadrar.com##.txt
+uploadrar.com##.menufooter
+uploadrar.com###footer2
+uploadrar.com##header
+uploadrar.com##.banner3
+
+! 2023-11-13 https://series-indy.com
+series-indy.com##.kosana.sdtrue
+series-indy.com##.ftr_wgt
+
+! 2023-11-13 https://movie8m.co
+movie8m.co##.baner-center.banner
+movie8m.co##.banner-float.banner
+movie8m.co##.banner-f-right-1.banner
+movie8m.co##.banner-f-left-1.banner
+movie8m.co##.banner-right.banner
+movie8m.co##.baner-left.banner
+movie8m.co##div.my-3.banner-content-center.banner:nth-of-type(5)
+movie8m.co##div.my-3.banner-content-center.banner:nth-of-type(10)
+movie8m.co##.ad-left
+
+! 2023-11-16 http://185.255.131.186
+185.255.131.186##.popupflyin-clicks-area.modal-body
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitG3njHa51b1nF0ajxR3ce5zwg_0mdPlR6of_hR83ykfMpRVlYyamrbYXap0Xf9xqEQzjureJu6wI2rXxeZfsQg_J7v6JVr2RknH2CGiSqEsI8selNpB66yprOW_SrgfxgMCKV5PAk9YyYDS-T3JrAz9LRbxGurKbxWGVM-Lc7bBPNzgV_k9V64nMn3g/w320-h640/03_4BANNERS-300x600-compress.gif$image
+
+! 2023-11-16 https://moviekhhd.biz
+moviekhhd.biz##.agileits-single-top > a#Ads
+moviekhhd.biz###Ads
+moviekhhd.biz###banner1
+moviekhhd.biz##.footer
+||disqus.com/embed/comments/$subdocument
+||disqus.com/embed/comments/?base=default&f=moviekhhd-1&t_u=https%3A%2F%2Fmoviekhhd.biz%2Fwatch%3Fid%3D5821&t_d=Congrats%20My%20Ex!%20(2023)%20-%20Watch%20Free%20%7C%20Moviekhhd.biz&t_t=Congrats%20My%20Ex!%20(2023)%20-%20Watch%20Free%20%7C%20Moviekhhd.biz&s_o=default$subdocument
+
+! 2023-11-19 https://18show-th.com
+18show-th.com##p:nth-of-type(2)
+
+! 2023-11-25 https://dooball66s.com
+dooball66s.com##[href="https://ufafat.bet"]
+dooball66s.com##[href="https://lotto432s.net"]
+dooball66s.com##[href="https://sexygame666s.com"]
+dooball66s.com##[href="https://kingdom66z.com"]
+dooball66s.com##[href="https://ufazeeds.com"]
+dooball66s.com##p:nth-of-type(1)
+dooball66s.com##h3
+dooball66s.com##.no-padding.panel-body.entry-content > h1
+dooball66s.com##.align-items-center.row
+dooball66s.com##.yasr-overall-rating
+dooball66s.com###colophon > .container
+dooball66s.com##.yasr-custom-text-before-overall
+
+! 2023-11-26 https://epl.sportshub.stream
+epl.sportshub.stream##header.container > div.row
+
+! 2023-11-26 https://reddit2.sportshub.stream
+reddit2.sportshub.stream##[href^="https://s.click.aliexpress.com/e/_Dd4EFj1"]
+
+! 2023-11-26 https://tennis.sportshub.stream
+tennis.sportshub.stream##header.container > div.row > .col-xs-12
+
+! 2023-11-26 https://sportshub.fan
+sportshub.fan##[href^="https://s.click.aliexpress.com/e/_Dd4EFj1"]
+
+! 2023-11-26 https://sportshub.stream
+sportshub.stream##header.container > div.row > .col-xs-12
