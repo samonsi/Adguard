@@ -1,3 +1,66 @@
+! 2023-11-29 https://dooball66s.com
+dooball66s.com##center:nth-of-type(1)
+
+! 2023-11-29 https://www.123-hd.com
+||www.123-hd.com/wp-content/uploads/2022/04/LEIO-2022-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-300x450.jpg$image
+
+! 2023-12-01 https://www.dooseries4k.com
+www.dooseries4k.com##.img-responsive.ad-left
+www.dooseries4k.com##.white_content1
+www.dooseries4k.com##div.other-movie:nth-of-type(6)
+www.dooseries4k.com##div.other-movie > .h1-text
+www.dooseries4k.com##.site-info > p
+www.dooseries4k.com##ul.ul-15:nth-of-type(2)
+||www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png$image
+
+! 2023-12-04 https://www.siambit.me
+www.siambit.me##[href="https://55xo.io"]
+www.siambit.me##.outer [href="https://55amb.io"]
+
+! 2023-12-08 https://ouo.io
+ouo.io##.about
+ouo.io##.join-now
+ouo.io##.footer-copy
+ouo.io##.navbar-collapse.collapse
+
+! 2023-12-09 https://ouo.press
+ouo.press##.about > .container > .row
+ouo.press##p
+ouo.press##.join-now
+ouo.press##.about
+
+! 2023-12-12 https://www.siambit.me
+www.siambit.me##.outer [href="https://amb55.com"]
+
+! 2023-12-13 https://mexa.sh
+mexa.sh##td > div
+mexa.sh##.nav-menu.nav
+mexa.sh##.footer > div
+
+! 2023-12-13 https://www.lgych.com
+||www.lgych.com/wp-content/uploads/2023/11/11111.mp4$media
+www.lgych.com##.banner
+
+! 2023-12-13 https://filejoker.net
+filejoker.net##.order-lg-0.order-1.clmn-xl-18.clmn-lg-19.col-md-9.col-11.plan-1.plan
+filejoker.net##.mb-lg-0.mb-3.order-lg-1.order-0.clmn-xl-18.clmn-lg-19.col-md-9.col-11.plan-2.plan
+filejoker.net##.mt-auto.footer
+filejoker.net##.px-3.align-items-center.justify-content-center.payment-icons.row
+
+! 2023-12-14 https://file.apkmoddone.com
+file.apkmoddone.com##.itm.sml.aTtl.pTtl
+file.apkmoddone.com##.pSh
+file.apkmoddone.com###postBody > p
+file.apkmoddone.com##.zmImg
+file.apkmoddone.com##tr:nth-of-type(2)
+file.apkmoddone.com##.rPst
+file.apkmoddone.com###COLDER_SHOULDERS
+file.apkmoddone.com###BECOMING_LESS_CHINESE
+
+! 2023-12-18 https://www.037hdmovie.com
+www.037hdmovie.com###ads-single
+
+
 ! 2023-03-11 https://dunnung.com
 dunnung.com###footer
 
