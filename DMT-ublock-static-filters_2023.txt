@@ -1,3 +1,273 @@
+! Sep 22, 2024 https://i-loadzone.com
+i-loadzone.com##.plyr__video-wrapper
+i-loadzone.com##.plyr--hide-controls.plyr--playing.plyr__poster-enabled.plyr--pip-supported.plyr--html5.plyr--video.plyr--full-ui.plyr
+i-loadzone.com##.InstreamDom_player_1y46y
+https://cdn.plyr.io/static/blank.mp4
+
+! Sep 22, 2024 https://www.boransat.net
+||www.boransat.net/small-banner/boran.gif$image
+www.boransat.net##td > [href^="http://www.boransat.net/board/index.php"]
+www.boransat.net##table:nth-of-type(5)
+www.boransat.net##.windowbg2 > table > tbody > tr > .smalltext > .signature > div > [href^="http://www.boransat.net/board/index.php"]
+||www.boransat.net/pic-add/ads2.jpg$image
+www.boransat.net##table.tborder > tbody > tr > td > center > div
+www.boransat.net##table.tborder > tbody > tr > td > center
+
+! Sep 22, 2024 https://blog.i-loadzone.com
+blog.i-loadzone.com###kolw-navigation-js
+
+! Sep 22, 2024 https://ddownr.com
+ddownr.com##[src="/images/banner-3.jpg"]
+
+! Sep 23, 2024 https://www.serie-day.com
+www.serie-day.com##.article.content-category > p
+www.serie-day.com##.article.content-category > h2
+www.serie-day.com##.content-site
+www.serie-day.com##.copyright
+www.serie-day.com##.container.menu-footer
+
+! Sep 24, 2024 https://blog.i-loadzone.com
+blog.i-loadzone.com##.InstreamDom_footer_iL5Q_
+
+! Sep 26, 2024 https://www.nanamovies.me
+www.nanamovies.me##.br7.inner-glow.comment-warn
+www.nanamovies.me##.comment-respond
+www.nanamovies.me##.footer > .center
+www.nanamovies.me##.comments-title
+www.nanamovies.me##.comments-list
+
+! Sep 29, 2024 https://www.9nunghd.com
+www.9nunghd.com##div.poster-slider-container:nth-of-type(2)
+||www.9nunghd.com/wp-content/themes/9nunghd/img/footer-bg.webp$image
+www.9nunghd.com##.content > p
+www.9nunghd.com##.cont-foot > p
+www.9nunghd.com##.cont-foot
+www.9nunghd.com##.content
+www.9nunghd.com##.site-footer
+www.9nunghd.com##[href="https://ufafc24.com/"]
+www.9nunghd.com##[href="https://ufathai24s.net/"]
+www.9nunghd.com##.header-logo
+www.9nunghd.com##[src^="https://web.facebook.com/v13.0/plugins/comments.php?app_id=1024917895123383&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df625f039327fbec3d%26domain%3Dwww.9nunghd.com%26is_canvas%3Dfalse%26origin%3Dhttps%25"]
+www.9nunghd.com##.comment-box
+
+! Sep 30, 2024 https://www.serie-day.com
+www.serie-day.com##.h1-logo
+||www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png$image
+
+! Sep 30, 2024 https://fw4free.com
+fw4free.com##div.mb-3.mt-3.text-center.col-12 > [href="https://bit.ly/459LlZj"]
+
+! Oct 2, 2024 https://newseries-hd.tv
+newseries-hd.tv##div.adb:nth-of-type(1)
+newseries-hd.tv##div.adb:nth-of-type(2)
+newseries-hd.tv##div.adb:nth-of-type(3)
+newseries-hd.tv##.content-site > .content-site
+newseries-hd.tv##div.content-site:nth-of-type(3)
+||newseries-hd.tv/wp-content/themes/moviestheme/img/bg_stranger-things.jpg$image
+newseries-hd.tv##[src^="https://www.facebook.com/v7.0/plugins/page.php?adapt_container_width=true&app_id=592039908155651&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1df734373ab1f516%26domain%3Dnewseries-hd.tv%26is_canvas%3Dfals"]
+||newseries-hd.tv/wp-content/themes/moviestheme/img/*bg_s*.jpg$image
+||newseries-hd.tv/wp-content/themes/moviestheme/img/bg.jpg$image
+||newseries-hd.tv/wp-content/themes/moviestheme/img/bg.jpg$image
+newseries-hd.tv##.fb_iframe_widget.fb-page
+
+! Oct 7, 2024 https://www.kubhd.com
+www.kubhd.com##div.wp-bnn:nth-of-type(1)
+www.kubhd.com##div.wp-bnn:nth-of-type(2)
+www.kubhd.com##div.wp-bnn:nth-of-type(3)
+www.kubhd.com##div.wp-bnn:nth-of-type(4)
+www.kubhd.com##div.wp-bnn:nth-of-type(5)
+www.kubhd.com##div.wp-bnn:nth-of-type(6)
+www.kubhd.com##div.wp-bnn:nth-of-type(7)
+www.kubhd.com##div.wp-bnn:nth-of-type(8)
+www.kubhd.com##div.wp-bnn:nth-of-type(9)
+www.kubhd.com##div.wp-bnn:nth-of-type(10)
+www.kubhd.com##div.wp-bnn:nth-of-type(11)
+www.kubhd.com##div.wp-bnn:nth-of-type(12)
+www.kubhd.com##div.wp-bnn:nth-of-type(13)
+www.kubhd.com##div.wp-bnn:nth-of-type(14)
+www.kubhd.com##div.wp-bnn:nth-of-type(15)
+www.kubhd.com##div.wp-bnn:nth-of-type(16)
+www.kubhd.com##div.wp-bnn:nth-of-type(17)
+www.kubhd.com##div.wp-bnn:nth-of-type(18)
+www.kubhd.com##div.wp-bnn:nth-of-type(19)
+www.kubhd.com##div.wp-bnn:nth-of-type(20)
+www.kubhd.com##[href="https://app.u14k.com/utm-source/kubhd"]
+www.kubhd.com##[href^="https://betflik-4u2.com/"]
+www.kubhd.com##[href^="https://play.sa-lk.net/signup"]
+www.kubhd.com##[href="https://gta369.online/"]
+www.kubhd.com##[href="https://t.ly/ufac4"]
+www.kubhd.com##[href="https://bfbet.vip"]
+www.kubhd.com##[href="https://t.ly/vip168saa"]
+www.kubhd.com##[href="https://bifroz888a.com/"]
+www.kubhd.com##[href="https://8xbet212.com"]
+www.kubhd.com##[href^="http://aff.ufabull88.me/"]
+www.kubhd.com##[src^="https://www.facebook.com/v13.0/plugins/comments.php?app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfa33a517129ec3e46%26domain%3Dwww.kubhd.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.ku"]
+www.kubhd.com##div:nth-of-type(6)
+www.kubhd.com##.nav_bg.py-6.px-4
+www.kubhd.com##.rounded.lg\:p-6.py-4.w-full.mb-4.content_bg
+www.kubhd.com##.text-center.p-4.bg-gray-700.columns-1
+www.kubhd.com##div.md\:mt-4.mt-0.mb-4.mx-auto.lg\:max-w-7xl.max-w-full:nth-of-type(3)
+www.kubhd.com##.mb-4.archive-description > p
+www.kubhd.com##[src^="https://www.facebook.com/v13.0/plugins/comments.php?app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfc3b5945612ee372b%26domain%3Dwww.kubhd.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.ku"]
+www.kubhd.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+www.kubhd.com##div:nth-of-type(8)
+
+! Oct 7, 2024 https://series-888.com
+series-888.com##.p-4.text-\[var\(--footer-widget-text\)\].border-\[var\(--footer-widget-border\)\].border-t.mt-4.bg-\[var\(--footer-widget-bg\)\]
+series-888.com##.rounded-lg.text-slate-200.bg-neutral-800.mb-4.p-4
+
+! Oct 8, 2024 https://ddownr.com
+ddownr.com##.section-info.section > .container > .section-body
+
+! Oct 8, 2024 https://www.nung.tv
+www.nung.tv##li.imgc-mint.widget-media:nth-of-type(1)
+www.nung.tv##li.imgc-mint.widget-media:nth-of-type(2)
+www.nung.tv##li.imgc-minc.widget-media:nth-of-type(1)
+www.nung.tv##li.imgc-minc.widget-media:nth-of-type(2)
+
+! Oct 8, 2024 https://newseries-hd.tv
+||newseries-hd.tv/wp-content/themes/moviestheme/img/bg_*.jpg$image
+newseries-hd.tv##.content-page > p
+||newseries-hd.tv/wp-content/themes/moviestheme/img/bg*e.jpg$image
+
+! Oct 11, 2024 https://krx18.com
+krx18.com###dynamic-image
+
+! Oct 13, 2024 https://ddownr.com
+ddownr.com##.section-features.section > .container
+ddownr.com##.lg\:px-0.px-5.section-hero.section
+ddownr.com##.section-features.section
+ddownr.com##.footer
+ddownr.com##.section-partners.section
+ddownr.com##.text-center.pt-2.gap-3.justify-center.items-center.lg\:flex-row.flex-col.flex.dark\:text-light-secondary-500.text-light-black-500.text-base.font-medium
+
+! Oct 13, 2024 https://cety.app
+cety.app##.main-footer
+cety.app##.flex.header-right
+
+! Oct 13, 2024 https://www.kubhd.com
+www.kubhd.com##center > [href="https://lin.ee/o5u6dic"]
+
+! Oct 14, 2024 https://datanodes.to
+datanodes.to##.space-y-6.pt-6.flex-wrap.flex.mx-auto.container
+||datanodes.to/theme_2023/src/assets/images/virus-scan.png$image
+datanodes.to##.p-16.items-center.flex.md\:w-8\/12.w-full.rounded-lg
+datanodes.to##.block.my-4
+datanodes.to###header > .justify-center.items-center.flex.mx-auto.px-4.container
+datanodes.to##.top-0.right-0.left-0.py-2.fixed.items-center.flex.z-50.header
+datanodes.to##.z-50.relative.px-4.py-6
+
+! Oct 14, 2024 https://cety.app
+cety.app##.nav-desktop.flex.container
+
+! Oct 15, 2024 https://tvallseries.co
+tvallseries.co##.primary
+tvallseries.co##header > strong
+tvallseries.co##.widget_custom_html.widget.widget_text
+tvallseries.co##.copy
+tvallseries.co##h1 > strong
+
+! Oct 15, 2024 https://www.serie-day.com
+www.serie-day.com##[src^="https://web.facebook.com/v14.0/plugins/comments.php?app_id=1574096012810602&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfd9a2c38e14674588%26domain%3Dwww.serie-day.com%26is_canvas%3Dfalse%26origin%3Dhttps%"]
+www.serie-day.com##.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
+
+! Oct 15, 2024 https://www.dooseries4k.com
+www.dooseries4k.com##.banner-movie
+
+! Oct 19, 2024 https://livescorethai.tv
+livescorethai.tv##[href="https://huaylike.life"]
+
+! Oct 20, 2024 https://fwiptv.tv
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/328"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/341"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/274"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/345"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/338"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/314"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/305"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/344"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/343"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/337"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/176"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/339"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/340"]
+fwiptv.tv##[href="https://fwiptv.tv/ads/redirect/330"]
+
+! Oct 20, 2024 https://www.fwiptv.tv
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/309"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/340"]
+www.fwiptv.tv##[href="https://www.fwiptv.tv/ads/redirect/330"]
+www.fwiptv.tv##[src="https://www.fwiptv.tv/images/banners/qPKmM5IxVg3wV8awjKIj7XHur4ss0YCSA1688.webp"]
+||imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/5284b3df-4a9f-4c51-e47e-52ae6c868000/public$image
+||imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/070b9636-6bd5-442a-592b-400a040d6700/public$image
+||imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/070b9636-6bd5-442a-592b-400a040d6700/public$image
+||imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/070b9636-6bd5-442a-592b-400a040d6700/public$image
+www.fwiptv.tv##[src="https://imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/d4b5aa84-2e5e-49b8-a6e8-ff1df68ed700/public"]
+www.fwiptv.tv##[src="https://imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/5284b3df-4a9f-4c51-e47e-52ae6c868000/public"]
+www.fwiptv.tv##[src="https://imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/070b9636-6bd5-442a-592b-400a040d6700/public"]
+www.fwiptv.tv##[src="https://fwiptv.tv/images/banners/ixcpJFfaLvQlCQ4O4VQJjV2G7fpunold9iR0UxzNF3T8ZEe0Ocpl5ZSdsd4bujfw_(1).webp"]
+www.fwiptv.tv##[src="https://www.fwiptv.tv/images/banners/RUWbN8IY7D2Zm8eP67MouXrBxzD4TBusexygame1688.webp"]
+www.fwiptv.tv##[src="https://imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/e3eef9e0-ed5f-4a21-ad98-f1dfbb1a9100/public"]
+www.fwiptv.tv##[src="https://imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/38ce07a3-1135-4f78-3f5c-d4522dc2b400/public"]
+www.fwiptv.tv##[src="https://imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/c814bcc4-a933-4466-6037-f6a956f2f100/public"]
+www.fwiptv.tv##[src="https://imagedelivery.net/MYaLH6ZEJZGynOfV4UbenA/02ce866c-95d6-4f4e-d52b-d655651e8700/public"]
+www.fwiptv.tv##[src="https://fwiptv.tv/images/banners/CYgbxTaOT0rUEZJLvkGebgpd1dvWVPeufafat.webp"]
+
+! Oct 21, 2024 https://www.kubhd.com
+www.kubhd.com##[href^="https://play.ufabet11k.com/signup"]
+www.kubhd.com##[href^="https://app.betflik-4u3.com/game/"]
+
+! Oct 21, 2024 https://dooball2you.com
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-06f2aa4.elementor-element > .elementor-widget-container > [href="https://lin.ee/QN3DQkB"]
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-1808957.elementor-element > .elementor-widget-container > [href]
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-0755a2a.elementor-element > .elementor-widget-container > [href]
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-509f58c.elementor-element > .elementor-widget-container > [href="https://lin.ee/QN3DQkB"]
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-504b086.elementor-element > .elementor-widget-container > [href="https://lin.ee/QN3DQkB"]
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-9f66fe8.elementor-element > .elementor-widget-container > [href]
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-0a4f4d6.elementor-element > .elementor-widget-container > [href]
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-27971fc.elementor-element > .elementor-widget-container > [href]
+dooball2you.com##.elementor-element-14cc498c.elementor-element.elementor-top-column.elementor-col-100.elementor-column > .elementor-element-populated.elementor-widget-wrap
+dooball2you.com##.elementor-widget-image.elementor-widget.elementor-element-106f15a.elementor-element > .elementor-widget-container
+dooball2you.com##.elementor-widget-text-editor.elementor-widget.elementor-element-de90936.elementor-element > .elementor-widget-container > p
+dooball2you.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-b0cf385.elementor-element.elementor-top-section.elementor-section
+dooball2you.com##.elementor-widget-text-editor.elementor-widget.elementor-element-790c455.elementor-element > .elementor-widget-container > p
+
+! Oct 22, 2024 https://livesod365.com
+livesod365.com##[href="https://t.ly/ufac4"]
+livesod365.com##[href="https://t.ly/ufazeed"]
+livesod365.com##[href="https://t.ly/lalikabet88"]
+livesod365.com##[href="https://t.ly/huayhit168"]
+livesod365.com##[href="https://t.ly/brazil999"]
+livesod365.com##[href="https://t.ly/hydra8888"]
+livesod365.com##.tt_footer
+
+! Oct 22, 2024 https://www.24-hd.com
+
+! Oct 22, 2024 https://www.24-hd.com
+www.24-hd.com##.adb > p > [href^="/link_to.php"]
+www.24-hd.com##.adl > p > [href^="/link_to.php"]
+www.24-hd.com##.adlf > .adhl > p > [href^="/link_to.php"]
+www.24-hd.com##.right-menu > .adhl > p > [href^="/link_to.php"]
+www.24-hd.com##.adcen > .adt > p > [href^="/link_to.php"]
+www.24-hd.com##.adrg > p > [href^="/link_to.php"]
+www.24-hd.com##.adlf > div.adt > p > [href^="/link_to.php"]
+www.24-hd.com##.adcen > .adt > p
+www.24-hd.com##.ad > .adcen
+www.24-hd.com##.ad
+www.24-hd.com##.mcommanr
+www.24-hd.com##.content-site
+www.24-hd.com##.article.content-category
+
+! Oct 22, 2024 https://www.037hdmovie.com
+www.037hdmovie.com###ads-popup
+www.037hdmovie.com###ads-sidebar-single-top
+www.037hdmovie.com###ads-bottom-player
+www.037hdmovie.com###ads-sidebar-single-bottom
+www.037hdmovie.com##.clearfix.footer
+
+
+
+
 ! 2023-11-29 https://dooball66s.com
 dooball66s.com##center:nth-of-type(1)
 
