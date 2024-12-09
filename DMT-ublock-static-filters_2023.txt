@@ -1,3 +1,5 @@
+! https://github.com/XDMTX/Adguard/raw/refs/heads/main/DMT-ublock-static-filters_2023.txt
+
 ! Sep 22, 2024 https://i-loadzone.com
 i-loadzone.com##.plyr__video-wrapper
 i-loadzone.com##.plyr--hide-controls.plyr--playing.plyr__poster-enabled.plyr--pip-supported.plyr--html5.plyr--video.plyr--full-ui.plyr
