@@ -1,5 +1,22 @@
 ! https://github.com/XDMTX/Adguard/raw/refs/heads/main/DMT-ublock-static-filters_2023.txt
 
+! 15 พ.ย. 2567 https://www.niceoppai.net
+www.niceoppai.net##[href="https://t.ly/lalikabet66"]
+www.niceoppai.net###sct_top_banner
+www.niceoppai.net##[href="https://mungkorn89.com/slot-demo/"]
+www.niceoppai.net##[href="https://glory88.bet/"]
+www.niceoppai.net##[href="https://www.godzilla88.co"]
+www.niceoppai.net##[href="chfcc.org"]
+www.niceoppai.net##[href="https://camel88.io/slot/"]
+www.niceoppai.net##[href="https://t.ly/kingdom66"]
+www.niceoppai.net##[href="https://aphilosopherstake.com/"]
+www.niceoppai.net##.mng_rdr.wpm_pag > center > [href="https://lionth.org/baccarat/"]
+
+! 21 พ.ย. 2567 https://www.eye-manga.com
+www.eye-manga.com##.header-ads-section
+
+
+
 ! Sep 22, 2024 https://i-loadzone.com
 i-loadzone.com##.plyr__video-wrapper
 i-loadzone.com##.plyr--hide-controls.plyr--playing.plyr__poster-enabled.plyr--pip-supported.plyr--html5.plyr--video.plyr--full-ui.plyr
