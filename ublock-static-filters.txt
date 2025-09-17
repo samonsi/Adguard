@@ -1,4 +1,4 @@
-! https://github.com/XDMTX/Adguard/raw/refs/heads/main/DMT-ublock-static-filters_2023.txt
+! https://github.com/XDMTX/Adguard/raw/refs/heads/main/ublock-static-filters.txt
 
 ! 15 พ.ย. 2567 
 https://lionth.org/baccarat/
